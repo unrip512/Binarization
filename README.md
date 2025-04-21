@@ -1,2 +1,11 @@
 # Binarization
-![Первое изображение](results/1_.jpg)
+![изображение](results/0.jpg)
+![изображение](results/1.jpg)
+![изображение](results/3.jpg)
+![изображение](results/6.jpg)
+![изображение](results/8.jpg)
+![изображение](results/10.jpg)
+![изображение](results/12.jpg)
+![изображение](results/16.jpg)
+![изображение](results/21.jpg)
+![изображение](results/25.jpg)
