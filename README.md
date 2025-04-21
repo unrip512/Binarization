@@ -1,2 +1,2 @@
 # Binarization
-![Первое изображение](binarization_dataset/0.jpg)
+![Первое изображение](results/0.pdf)
